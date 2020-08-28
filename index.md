@@ -4,15 +4,15 @@
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
+[TBD iOS App](/sample_page)
 <img src="images/tbdApp.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Gym Site Concept](/pdf/sample_presentation.pdf)
 <img src="images/gymSite.gif?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Carrier Filter Concept](http://example.com/)
 <img src="images/carrierSite.gif?raw=true"/>
 
 ---
