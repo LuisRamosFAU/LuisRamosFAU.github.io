@@ -1,6 +1,4 @@
-## Portfolio
-
----
+## Portfolio:
 
 ### Projects 
 
@@ -23,9 +21,9 @@
 ---
 ### Work Experience
 
+- [Skyline Communications Internship](https://skyline.be/dataminer/dataminerintegrationstudio)
 - [Cocobolo Group Internship - TBD iOS App]
 <img src="images/tbdApp.gif?raw=true"/>
-- [Skyline Communications Internship](https://skyline.be/dataminer/dataminerintegrationstudio)
 
 ---
 
