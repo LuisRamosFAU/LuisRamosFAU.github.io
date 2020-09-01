@@ -8,11 +8,11 @@
 <img src="images/tbdApp.gif?raw=true"/>
 
 ---
-[Gym Site Concept](/pdf/sample_presentation.pdf)
+[Gym Site Concept](/pdf/Luis&VinithED2ProjectReport.pdf)
 <img src="images/gymSite.gif?raw=true"/>
 
 ---
-[Carrier Filter Concept](http://example.com/)
+[Carrier Filter Concept](https://skyline.be/dataminer/dataminerintegrationstudio)
 <img src="images/carrierSite.gif?raw=true"/>
 
 ---
