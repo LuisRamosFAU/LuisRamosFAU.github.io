@@ -8,18 +8,21 @@
 <img src="images/tbdApp.gif?raw=true"/>
 
 ---
-[Gym Site Concept](/pdf/Luis&VinithED2ProjectReport.pdf)
-<img src="images/gymSite.gif?raw=true"/>
+[Joey the Companion Robot](/pdf/Luis&VinithED2ProjectReport.pdf)
+<img src="images/Joey.png?raw=true"/>
 
 ---
-[Carrier Filter Concept](https://skyline.be/dataminer/dataminerintegrationstudio)
+[Carrier Filter Concept](/sample_page)
 <img src="images/carrierSite.gif?raw=true"/>
 
 ---
+[Gym Site Concept](/sample_page)
+<img src="images/gymSite.gif?raw=true"/>
 
+---
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Skyline Communications Internship](https://skyline.be/dataminer/dataminerintegrationstudio)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
